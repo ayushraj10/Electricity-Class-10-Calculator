@@ -12,7 +12,7 @@ Then please open the python shell as shown below and enjoy the application! and 
 # 2nd Method- Automatic Download and In-browser Use
 ![github-small](https://cdnlogo.com/logos/r/82/repl-it.svg)
 You can use it with the help of repl.it and no need any setup as mentioned and get your work done!
-Repl.it link to be used: https://repl.it/@AyushRaj9/Electricity-Class-10-Calculator
+Repl.it link to be used: https://repl.it/@AyushRaj9/Electricity-Class-10-Calculator. Please tell me ur suggestions too!
 
 
 
